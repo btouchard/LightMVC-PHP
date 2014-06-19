@@ -1,0 +1,1 @@
+<pre><?php foreach ($commands as $cmd) echo $cmd;?></pre>
