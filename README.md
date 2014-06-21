@@ -23,8 +23,10 @@ Installation
 Sample
 ------
 * HelloWorld view (App/Views/Hello/index.php)
+```html
 <h1>$text</h1>
 * HelloWorld Controller (App/Controller/HelloController.class.php)
+```php
 <?php
 namespace App\Controller;
 use Library\Controller;
